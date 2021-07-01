@@ -22,6 +22,8 @@ namespace SimpleC
             var s = 10;
             Console.WriteLine(s.GetType());
             Console.WriteLine("Some Code");
+            int x = new ();
+            x = 10;
         }
     }
 }
