@@ -1,0 +1,16 @@
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\SimpleC.exe
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\SimpleC.deps.json
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\SimpleC.runtimeconfig.json
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\SimpleC.runtimeconfig.dev.json
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\SimpleC.dll
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\ref\SimpleC.dll
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\bin\Debug\net5.0\SimpleC.pdb
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.AssemblyInfoInputs.cache
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.AssemblyInfo.cs
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.dll
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\ref\SimpleC.dll
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.pdb
+C:\Users\Евгений\source\repos\SimpleC\SimpleC\obj\Debug\net5.0\SimpleC.genruntimeconfig.cache
